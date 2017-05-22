@@ -1,4 +1,4 @@
-###### Choose your state
+<h1>Choose your state</h1>
 
 # Alabama
 [Alabama](#alabama) [Alaska](#alaska) [Arizona](#arizona) Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii 
