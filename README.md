@@ -1,3 +1,12 @@
+#### When can I register to vote?
+
+Each state has different laws, but in some states you can [pre-register](http://www.fairvote.org/voter_pre_registration#facts_about_voter_pre_registration) as young as 16!
+
+#### What's the difference between pre-registration and normal registration?
+
+
+
+
 # Choose your state
 [Alabama](#alabama) [Alaska](#alaska) [Arizona](#arizona) Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii 
 Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan 
@@ -7,7 +16,11 @@ Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virg
 Wyoming [Washington D.C.](#washington-dc)
 
 # Alabama
-You must be AGE to register to vote.
+# Alaska
+# Arizona
+# Arkansas 
+# California
+You must be 16 to pre-register to vote.
 
 What you'll need:
 
@@ -16,14 +29,6 @@ What you'll need:
 3. item3
 
 [REGISTER HERE](https://www.google.com)
-
-# Alaska
-
-# Arizona
-
-# Arkansas 
-
-# California 
 # Colorado 
 # Connecticut 
 # Delaware 
