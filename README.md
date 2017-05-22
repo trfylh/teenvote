@@ -1,9 +1,5 @@
 # Alabama
-Alabama
-Alaska
-[Arizona](#arizona)
-Arkansas
-Alabama Alaska [Arizona](#arizona) Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii 
+[Alabama](#alabama) [Alaska](#alaska) [Arizona](#arizona) Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii 
 Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan 
 Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico 
 New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South 
@@ -11,12 +7,9 @@ Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virg
 Wyoming Washington D.C.
 
 # Alaska
-Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii 
-Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan 
-Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico 
-New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South 
-Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin 
-Wyoming Washington D.C.
+<text>You must be AGE to register to vote in Alaska.</text>
+<text>You must be AGE to register to vote in Alaska.</text>
+<text>You must be AGE to register to vote in Alaska.</text>
 
 # Arizona
 Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii 
@@ -26,7 +19,3 @@ New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Isl
 Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin 
 Wyoming Washington D.C.
 
-
-[Check out Alabama](#alabama)
-[Check out Arizona](#alaska)
-[Check out Arizona](#arizona)
