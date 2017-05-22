@@ -1,7 +1,7 @@
 [REGISTER NOW](#choose-your-state) | [FAQ](#faq) | [ABOUT THE SITE](#about)
 
 # FAQ 
-<h3>When can I register to vote?</h3>
+<h4>When can I register to vote?</h4>
 Each state has different laws, but in some states you can [pre-register](http://www.fairvote.org/voter_pre_registration#facts_about_voter_pre_registration) as young as 16 years old!
 
 <h3>What's the difference between pre-registration and normal registration?</h3>
