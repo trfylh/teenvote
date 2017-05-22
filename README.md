@@ -1,4 +1,4 @@
-<div align="center">[FAQ](#faq)</div> | <div align="center">[REGISTER NOW](#choose-your-state)</div> | <div align="center">[ABOUT THE SITE](#about)</div>
+[FAQ](#faq) | [REGISTER NOW](#choose-your-state) | [ABOUT THE SITE](#about)
 
 # Choose your state
 [Alabama](#alabama) [Alaska](#alaska) [Arizona](#arizona) [Arkansas](#arkansas) [California](#california) [Colorado](#colorado) [Connecticut](#connecticut) [Delaware](#delaware) [Florida](#florida) [Georgia](#georgia) [Hawaii](#hawaii) 
