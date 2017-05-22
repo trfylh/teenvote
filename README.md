@@ -17,7 +17,7 @@
 # Arkansas 
 # California
 
-You must be **16 or 17** to pre-register, or **18+** to register!
+You must be **16 or 17** to pre-register or **18+** to register.
 
 You must be **18** on or before the next election to actually vote!
 
