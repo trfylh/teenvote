@@ -9,7 +9,7 @@ The only difference is that you can't vote immediately. Other than that, the sta
 
 # Choose your state
 [Alabama](#alabama) [Alaska](#alaska) [Arizona](#arizona) [Arkansas](#arkansas) [California](#california) [Colorado](#colorado) [Connecticut](#connecticut) [Delaware](#delaware) [Florida](#florida) [Georgia](#georgia) [Hawaii](#hawaii) 
-[Idaho](#idaho) Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan 
+[Idaho](#idaho) [Illinois](#illinois) [Indiana](#indiana) [Iowa](#iowa) Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan 
 Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico 
 New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South 
 Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin 
