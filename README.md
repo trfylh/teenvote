@@ -16,15 +16,16 @@
 # Arizona
 # Arkansas 
 # California
-You must be 16 to pre-register to vote.
 
-You must be 18 on or before the next election to vote.
+You must be **16 or 17** to pre-register, or **18+** to register!
+
+You must be **18** on or before the next election to actually vote!
 
 What you'll need:
 
-1. item1
-2. item2
-3. item3
+1. Your California driver license or California identification card number.
+2. The last four digits of your social security number.
+3. Your date of birth.
 
 | [REGISTER HERE](http://registertovote.ca.gov/) |
 
