@@ -19,7 +19,10 @@
 
 # Alabama
 <details>
-If you're **17**, you must be **18+** on or before the next election day to register.
+<summary>Expand if you're 17+</summary>
+This state DOES NOT have pre-registration.
+This state DOES have registration for
+If you're 17, you must be **18+** on or before the next election day to register.
 
 You must be **18+** on or before the next election to actually vote!
 
@@ -28,9 +31,8 @@ What you might need:
 1. Your state driver license or state identification card number.
 2. The last four digits of your social security number.
 3. Your date of birth.
-
-| [REGISTER HERE](https://www.alabamavotes.gov/olvr/default.aspx) |
 </details>
+| [REGISTER HERE](https://www.alabamavotes.gov/olvr/default.aspx) |
 
 # Alaska
 
