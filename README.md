@@ -12,14 +12,34 @@
 [Alabama](#alabama) | [Alaska](#alaska) | [Arizona](#arizona) | [Arkansas](#arkansas) | [California](#california) | [Colorado](#colorado) | [Connecticut](#connecticut) | [Delaware](#delaware) | [Florida](#florida) | [Georgia](#georgia) | [Hawaii](#hawaii) | [Idaho](#idaho) | [Illinois](#illinois) | [Indiana](#indiana) | [Iowa](#iowa) | [Kansas](#kansas) | [Kentucky](#kentucky) | [Louisiana](#louisiana) | [Maine](#maine) | [Maryland](#maryland) | [Massachusetts](#massachusetts) | [Michigan](#michigan) | [Minnesota](#minnesota) | [Mississippi](#mississippi) | [Missouri](#missouri) | [Montana](#montana) | [Nebraska](#nebraska) | [Nevada](#nevada) | [New Hampshire](#new-hampshire) | [New Jersey](#new-jersey) | [New Mexico](#new-mexico) | [New York](#new-york) | [North Carolina](#north-carolina) | [North Dakota](#north-dakota) | [Ohio](#ohio) | [Oklahoma](#oklahoma) | [Oregon](#oregon) | [Pennsylvania](#pennsylvania) | [Rhode Island](#rhode-island) | [South Carolina](#south-carolina) | [South Dakota](#south-dakota) | [Tennessee](#tennessee) | [Texas](#texas) | [Utah](#utah) | [Vermont](#vermont) | [Virginia](#virginia) | [Washington](#washington) | [West Virginia](#west-virginia) | [Wisconsin](#wisconsin) | [Wyoming](#wyoming) | [Washington D.C.](#washington-dc)
 
 # Alabama
+
+You must be **16 or 17** to pre-register.
+
+You must be **18+** to register.
+
+You must be **18+** on or before the next election to actually vote!
+
+What you'll need:
+
+1. Your California driver license or California identification card number.
+2. The last four digits of your social security number.
+3. Your date of birth.
+
+| [REGISTER HERE](http://registertovote.ca.gov/) |
+
 # Alaska
+
 # Arizona
+
 # Arkansas 
+
 # California
 
-You must be **16 or 17** to pre-register or **18+** to register.
+You must be **16 or 17** to pre-register.
 
-You must be **18** on or before the next election to actually vote!
+You must be **18+** to register.
+
+You must be **18+** on or before the next election to actually vote!
 
 What you'll need:
 
