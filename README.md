@@ -7,9 +7,11 @@ Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virg
 Wyoming Washington D.C.
 
 # Alaska
-<text>You must be AGE to register to vote in Alaska.</text>
-<text>You must be AGE to register to vote in Alaska.</text>
-<text>You must be AGE to register to vote in Alaska.</text>
+You must be AGE to register to vote in Alaska.
+
+You must be AGE to register to vote in Alaska.
+
+You must be AGE to register to vote in Alaska.
 
 # Arizona
 Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii 
