@@ -4,7 +4,7 @@ Each state has different laws, but in some states you can [pre-register](http://
 
 ##### What's the difference between pre-registration and normal registration?
 
-
+The only difference is that you can't vote immediately. Other than that, the state will automatically register you to vote when you turn 18, so you're just as "registered" as normally registered people! 
 
 
 # Choose your state
@@ -21,6 +21,7 @@ Wyoming [Washington D.C.](#washington-dc)
 # Arkansas 
 # California
 You must be 16 to pre-register to vote.
+You must be 18 on or before the next election to vote.
 
 What you'll need:
 
@@ -28,7 +29,7 @@ What you'll need:
 2. item2
 3. item3
 
-[REGISTER HERE](https://www.google.com)
+[REGISTER HERE](http://registertovote.ca.gov/)
 
 
 # Colorado 
