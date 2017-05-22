@@ -6,9 +6,15 @@
 
 # Table of Contents
 
-[REGISTER](#choose-your-state) | [ABOUT](#about) | [FAQ](#faq)
+[16](#choose-your-state) | [17](#choose-your-state) | [18+](#choose-your-state) | [ABOUT](#about) | [FAQ](#faq)
 
-# Choose Your State
+# 16 Year Olds: Choose Your State (If Possible)
+[California](#california) | [Colorado](#colorado) | [Connecticut](#connecticut) | [Delaware](#delaware) | [Florida](#florida) | [Georgia](#georgia) | [Hawaii](#hawaii) | [Idaho](#idaho) | [Illinois](#illinois) | [Indiana](#indiana) | [Iowa](#iowa) | [Kansas](#kansas) | [Kentucky](#kentucky) | [Louisiana](#louisiana) | [Maine](#maine) | [Maryland](#maryland) | [Massachusetts](#massachusetts) | [Michigan](#michigan) | [Minnesota](#minnesota) | [Mississippi](#mississippi) | [Missouri](#missouri) | [Montana](#montana) | [Nebraska](#nebraska) | [Nevada](#nevada) | [New Hampshire](#new-hampshire) | [New Jersey](#new-jersey) | [New Mexico](#new-mexico) | [New York](#new-york) | [North Carolina](#north-carolina) | [North Dakota](#north-dakota) | [Ohio](#ohio) | [Oklahoma](#oklahoma) | [Oregon](#oregon) | [Pennsylvania](#pennsylvania) | [Rhode Island](#rhode-island) | [South Carolina](#south-carolina) | [South Dakota](#south-dakota) | [Tennessee](#tennessee) | [Texas](#texas) | [Utah](#utah) | [Vermont](#vermont) | [Virginia](#virginia) | [Washington](#washington) | [West Virginia](#west-virginia) | [Wisconsin](#wisconsin) | [Wyoming](#wyoming) | [Washington D.C.](#washington-dc)
+
+# 17 Year Olds: Choose Your State (If Possible)
+[Alabama](#alabama) | [Alaska](#alaska) | [Arizona](#arizona) | [Arkansas](#arkansas) | [California](#california) | [Colorado](#colorado) | [Connecticut](#connecticut) | [Delaware](#delaware) | [Florida](#florida) | [Georgia](#georgia) | [Hawaii](#hawaii) | [Idaho](#idaho) | [Illinois](#illinois) | [Indiana](#indiana) | [Iowa](#iowa) | [Kansas](#kansas) | [Kentucky](#kentucky) | [Louisiana](#louisiana) | [Maine](#maine) | [Maryland](#maryland) | [Massachusetts](#massachusetts) | [Michigan](#michigan) | [Minnesota](#minnesota) | [Mississippi](#mississippi) | [Missouri](#missouri) | [Montana](#montana) | [Nebraska](#nebraska) | [Nevada](#nevada) | [New Hampshire](#new-hampshire) | [New Jersey](#new-jersey) | [New Mexico](#new-mexico) | [New York](#new-york) | [North Carolina](#north-carolina) | [North Dakota](#north-dakota) | [Ohio](#ohio) | [Oklahoma](#oklahoma) | [Oregon](#oregon) | [Pennsylvania](#pennsylvania) | [Rhode Island](#rhode-island) | [South Carolina](#south-carolina) | [South Dakota](#south-dakota) | [Tennessee](#tennessee) | [Texas](#texas) | [Utah](#utah) | [Vermont](#vermont) | [Virginia](#virginia) | [Washington](#washington) | [West Virginia](#west-virginia) | [Wisconsin](#wisconsin) | [Wyoming](#wyoming) | [Washington D.C.](#washington-dc)
+
+# 18+ Year Olds: Choose Your State
 [Alabama](#alabama) | [Alaska](#alaska) | [Arizona](#arizona) | [Arkansas](#arkansas) | [California](#california) | [Colorado](#colorado) | [Connecticut](#connecticut) | [Delaware](#delaware) | [Florida](#florida) | [Georgia](#georgia) | [Hawaii](#hawaii) | [Idaho](#idaho) | [Illinois](#illinois) | [Indiana](#indiana) | [Iowa](#iowa) | [Kansas](#kansas) | [Kentucky](#kentucky) | [Louisiana](#louisiana) | [Maine](#maine) | [Maryland](#maryland) | [Massachusetts](#massachusetts) | [Michigan](#michigan) | [Minnesota](#minnesota) | [Mississippi](#mississippi) | [Missouri](#missouri) | [Montana](#montana) | [Nebraska](#nebraska) | [Nevada](#nevada) | [New Hampshire](#new-hampshire) | [New Jersey](#new-jersey) | [New Mexico](#new-mexico) | [New York](#new-york) | [North Carolina](#north-carolina) | [North Dakota](#north-dakota) | [Ohio](#ohio) | [Oklahoma](#oklahoma) | [Oregon](#oregon) | [Pennsylvania](#pennsylvania) | [Rhode Island](#rhode-island) | [South Carolina](#south-carolina) | [South Dakota](#south-dakota) | [Tennessee](#tennessee) | [Texas](#texas) | [Utah](#utah) | [Vermont](#vermont) | [Virginia](#virginia) | [Washington](#washington) | [West Virginia](#west-virginia) | [Wisconsin](#wisconsin) | [Wyoming](#wyoming) | [Washington D.C.](#washington-dc)
 
 # Alabama
@@ -17,9 +23,9 @@ If you're **17**, you must be **18+** on or before the next election day to regi
 
 You must be **18+** on or before the next election to actually vote!
 
-What you'll need:
+What you might need:
 
-1. Your Alabama driver license.
+1. Your state driver license or state identification card number.
 2. The last four digits of your social security number.
 3. Your date of birth.
 
@@ -39,15 +45,30 @@ You must be **18+** to register.
 
 You must be **18+** on or before the next election to actually vote!
 
-What you'll need:
+What you might need:
 
-1. Your California driver license or California identification card number.
+1. Your state driver license or state identification card number.
 2. The last four digits of your social security number.
 3. Your date of birth.
 
 | [REGISTER HERE](http://registertovote.ca.gov/) |
 
 # Colorado 
+
+You must be **16 or 17** to pre-register.
+
+You must be **18+** to register.
+
+You must be **18+** on or before the next election to actually vote!
+
+What you might need:
+
+1. Your state driver license or state identification card number.
+2. The last four digits of your social security number.
+3. Your date of birth.
+
+| [REGISTER HERE](https://www.sos.state.co.us/voter-classic/pages/pub/olvr/verifyNewVoter.xhtml) |
+
 # Connecticut 
 # Delaware 
 # Florida 
