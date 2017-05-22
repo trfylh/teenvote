@@ -1,7 +1,10 @@
 [FAQ](#faq) | [REGISTER NOW](#choose-your-state) | [ABOUT THE SITE](#about)
 
 # Choose your state
-[Alabama](#alabama) [Alaska](#alaska) [Arizona](#arizona) [Arkansas](#arkansas) [California](#california) [Colorado](#colorado) [Connecticut](#connecticut) [Delaware](#delaware) [Florida](#florida) [Georgia](#georgia) [Hawaii](#hawaii) 
+[Alabama](#alabama) | [Alaska](#alaska) | [Arizona](#arizona) | [Arkansas](#arkansas) 
+
+
+[California](#california) [Colorado](#colorado) [Connecticut](#connecticut) [Delaware](#delaware) [Florida](#florida) [Georgia](#georgia) [Hawaii](#hawaii) 
 [Idaho](#idaho) [Illinois](#illinois) [Indiana](#indiana) [Iowa](#iowa) [Kansas](#kansas) [Kentucky](#kentucky) [Louisiana](#louisiana) [Maine](#maine) [Maryland](#maryland) [Massachusetts](#massachusetts) [Michigan](#michigan) 
 [Minnesota](#minnesota) [Mississippi](#mississippi) [Missouri](#missouri) [Montana](#montana) [Nebraska](#nebraska) [Nevada](#nevada) [New Hampshire](#new-hampshire) [New Jersey](#new-jersey) [New Mexico](#new-mexico) 
 [New York](#new-york) [North Carolina](#north-carolina) [North Dakota](#north-dakota) [Ohio](#ohio) [Oklahoma](#oklahoma) [Oregon](#oregon) [Pennsylvania](#pennsylvania) [Rhode Island](#rhode-island) 
@@ -22,7 +25,7 @@ What you'll need:
 2. item2
 3. item3
 
-[REGISTER HERE](http://registertovote.ca.gov/)
+| [REGISTER HERE](http://registertovote.ca.gov/) |
 
 
 # Colorado 
