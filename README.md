@@ -3,9 +3,9 @@
 # Choose your state
 
 
-| [ALABAMA](#alabama) | [ALASKA](#alaska) | [ARIZONA](#arizona) |
+[Alabama](#alabama) | [Alaska](#alaska) | [Arizona](#arizona) | [Arkansas](#arkansas)
 
-[Arkansas](#arkansas)
+
 [California](#california) [Colorado](#colorado) [Connecticut](#connecticut) [Delaware](#delaware) [Florida](#florida) [Georgia](#georgia) [Hawaii](#hawaii) 
 [Idaho](#idaho) [Illinois](#illinois) [Indiana](#indiana) [Iowa](#iowa) [Kansas](#kansas) [Kentucky](#kentucky) [Louisiana](#louisiana) [Maine](#maine) [Maryland](#maryland) [Massachusetts](#massachusetts) [Michigan](#michigan) 
 [Minnesota](#minnesota) [Mississippi](#mississippi) [Missouri](#missouri) [Montana](#montana) [Nebraska](#nebraska) [Nevada](#nevada) [New Hampshire](#new-hampshire) [New Jersey](#new-jersey) [New Mexico](#new-mexico) 
