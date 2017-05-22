@@ -13,19 +13,17 @@
 
 # Alabama
 
-You must be **16 or 17** to pre-register.
-
-You must be **18+** to register.
+If you're **17**, you must be **18+** on or before the next election day to register.
 
 You must be **18+** on or before the next election to actually vote!
 
 What you'll need:
 
-1. Your California driver license or California identification card number.
+1. Your Alabama driver license.
 2. The last four digits of your social security number.
 3. Your date of birth.
 
-| [REGISTER HERE](http://registertovote.ca.gov/) |
+| [REGISTER HERE](https://www.alabamavotes.gov/olvr/default.aspx) |
 
 # Alaska
 
