@@ -1,6 +1,8 @@
 [FAQ](#faq) | [REGISTER NOW](#choose-your-state) | [ABOUT THE SITE](#about)
 
 # Choose your state
+[FAQ](#faq) | [REGISTER NOW](#choose-your-state) | [ABOUT THE SITE](#about)
+
 | [ALABAMA](#alabama) | [ALASKA](#alaska) | [ARIZONA](#arizona) |
 
 [Arkansas](#arkansas)
