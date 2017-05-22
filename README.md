@@ -1,3 +1,3 @@
 A Political Activism Project
 
-#Choose your state
+<h1>Choose your state</h1>
