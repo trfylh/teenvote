@@ -9,6 +9,7 @@
 # Arkansas 
 # California
 You must be 16 to pre-register to vote.
+
 You must be 18 on or before the next election to vote.
 
 What you'll need:
@@ -18,7 +19,6 @@ What you'll need:
 3. item3
 
 | [REGISTER HERE](http://registertovote.ca.gov/) |
-
 
 # Colorado 
 # Connecticut 
@@ -75,4 +75,4 @@ Each state has different laws, but in some states you can [pre-register](http://
 The only difference between voter pre-registration and voter registration is that you can't vote immediately after pre-registering. Other than that, the state will automatically register you to vote when you turn 18, so you're just as "registered" as normally registered people! 
 
 # About the Site
-
+This site was created by Teela Huff for her senior Political Activism project in the 2017-2018 school year. Contact Teela at trfylh@gmail.com with any questions, comments, or concerns. Thank you for using the site and helping out the teenvote in America!
