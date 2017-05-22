@@ -1,9 +1,9 @@
 [FAQ](#faq) | [REGISTER NOW](#choose-your-state) | [ABOUT THE SITE](#about)
 
 # Choose your state
-[Alabama](#alabama) | [Alaska](#alaska) | [Arizona](#arizona) | [Arkansas](#arkansas) 
+| [Alabama](#alabama) | [Alaska](#alaska) | [Arizona](#arizona) |
 
-
+[Arkansas](#arkansas)
 [California](#california) [Colorado](#colorado) [Connecticut](#connecticut) [Delaware](#delaware) [Florida](#florida) [Georgia](#georgia) [Hawaii](#hawaii) 
 [Idaho](#idaho) [Illinois](#illinois) [Indiana](#indiana) [Iowa](#iowa) [Kansas](#kansas) [Kentucky](#kentucky) [Louisiana](#louisiana) [Maine](#maine) [Maryland](#maryland) [Massachusetts](#massachusetts) [Michigan](#michigan) 
 [Minnesota](#minnesota) [Mississippi](#mississippi) [Missouri](#missouri) [Montana](#montana) [Nebraska](#nebraska) [Nevada](#nevada) [New Hampshire](#new-hampshire) [New Jersey](#new-jersey) [New Mexico](#new-mexico) 
