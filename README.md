@@ -4,6 +4,8 @@
 
 | <center>...teens register to vote!</center> |
 
+#Table of Contents
+
 [REGISTER](#choose-your-state) | [ABOUT](#about) | [FAQ](#faq)
 
 # Choose Your State
