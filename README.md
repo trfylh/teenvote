@@ -1,4 +1,4 @@
-<center> **Teen Count:** <a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=trfylh.github.io2/teenvote&digit=style/plain/3/&reloads=1" alt="" title="" border="0"></a><br /><a href="http://" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;"></a> </center>
+<center> Teen Count → <a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=trfylh.github.io2/teenvote&digit=style/plain/3/&reloads=1" alt="" title="" border="0"></a><br /><a href="http://" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;"></a> </center>
 
 
 [REGISTER](#choose-your-state) | [ABOUT](#about) | [FAQ](#faq)
@@ -72,9 +72,11 @@ What you'll need:
 
 # FAQ 
 **When can I register to vote?**
+
 Each state has different laws, but in some states you can [pre-register](http://www.fairvote.org/voter_pre_registration#facts_about_voter_pre_registration) as young as 16 years old!
 
 **What's the difference between voter pre-registration and voter registration?**
+
 The only difference between voter pre-registration and voter registration is that you can't vote immediately after pre-registering. Other than that, the state will automatically register you to vote when you turn 18, so you're just as "registered" as normally registered people! 
 
 # About the Site
