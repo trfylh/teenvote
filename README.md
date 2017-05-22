@@ -1,7 +1,7 @@
 [FAQ](#faq) | [REGISTER NOW](#choose-your-state) | [ABOUT THE SITE](#about)
 
 # Choose your state
-| [Alabama](#alabama) | [Alaska](#alaska) | [Arizona](#arizona) |
+| [ALABAMA](#alabama) | [ALASKA](#alaska) | [ARIZONA](#arizona) |
 
 [Arkansas](#arkansas)
 [California](#california) [Colorado](#colorado) [Connecticut](#connecticut) [Delaware](#delaware) [Florida](#florida) [Georgia](#georgia) [Hawaii](#hawaii) 
