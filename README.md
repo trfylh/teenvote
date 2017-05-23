@@ -9,7 +9,7 @@
 [REGISTER](#choose-your-state) | [ABOUT](#about-the-site) | [FAQ](#faq)
 
 # Choose Your State
-[Alabama](#alabama) | [Alaska](#alaska) | [Arizona](#arizona) | [Arkansas](#arkansas) | [California](#california) | [Colorado](#colorado) | [Connecticut](#connecticut) | [Delaware](#delaware) | [Florida](#florida) | [Georgia](#georgia) | [Hawaii](#hawaii) | [Idaho](#idaho) | [Illinois](#illinois) | [Indiana](#indiana) | [Iowa](#iowa) | [Kansas](#kansas) | [Kentucky](#kentucky) | [Louisiana](#louisiana) | [Maine](#maine) | [Maryland](#maryland) | [Massachusetts](#massachusetts) | [Michigan](#michigan) | [Minnesota](#minnesota) | [Mississippi](#mississippi) | [Missouri](#missouri) | [Montana](#montana) | [Nebraska](#nebraska) | [Nevada](#nevada) | [New Hampshire](#new-hampshire) | [New Jersey](#new-jersey) | [New Mexico](#new-mexico) | [New York](#new-york) | [North Carolina](#north-carolina) | [North Dakota](#north-dakota) | [Ohio](#ohio) | [Oklahoma](#oklahoma) | [Oregon](#oregon) | [Pennsylvania](#pennsylvania) | [Rhode Island](#rhode-island) | [South Carolina](#south-carolina) | [South Dakota](#south-dakota) | [Tennessee](#tennessee) | [Texas](#texas) | [Utah](#utah) | [Vermont](#vermont) | [Virginia](#virginia) | [Washington](#washington) | [West Virginia](#west-virginia) | [Wisconsin](#wisconsin) | [Wyoming](#wyoming) | [Washington D.C.](#washington-dc)
+[Alabama](#alabama) | [Alaska](#alaska) | [Arizona](#arizona) | [Arkansas](#arkansas) | [California](#california) | [Colorado](#colorado) | [Connecticut](#connecticut) | [Delaware](#delaware) | [District of Columbia](#district-of-columbia) | [Florida](#florida) | [Georgia](#georgia) | [Hawaii](#hawaii) | [Idaho](#idaho) | [Illinois](#illinois) | [Indiana](#indiana) | [Iowa](#iowa) | [Kansas](#kansas) | [Kentucky](#kentucky) | [Louisiana](#louisiana) | [Maine](#maine) | [Maryland](#maryland) | [Massachusetts](#massachusetts) | [Michigan](#michigan) | [Minnesota](#minnesota) | [Mississippi](#mississippi) | [Missouri](#missouri) | [Montana](#montana) | [Nebraska](#nebraska) | [Nevada](#nevada) | [New Hampshire](#new-hampshire) | [New Jersey](#new-jersey) | [New Mexico](#new-mexico) | [New York](#new-york) | [North Carolina](#north-carolina) | [North Dakota](#north-dakota) | [Ohio](#ohio) | [Oklahoma](#oklahoma) | [Oregon](#oregon) | [Pennsylvania](#pennsylvania) | [Rhode Island](#rhode-island) | [South Carolina](#south-carolina) | [South Dakota](#south-dakota) | [Tennessee](#tennessee) | [Texas](#texas) | [Utah](#utah) | [Vermont](#vermont) | [Virginia](#virginia) | [Washington](#washington) | [West Virginia](#west-virginia) | [Wisconsin](#wisconsin) | [Wyoming](#wyoming)
 
 # Alabama
 
@@ -18,7 +18,7 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <details>
 <summary><b>Are you 17?</b></summary>
 
-<p>You can only register now if you'll be 18 on or before the next general election day.</p>
+<p>You can only register now if you'll be 18 by the next general election day.</p>
 
 <p>You may need:</p>
 
@@ -71,10 +71,12 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 
 # Arizona
 
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16-17 year old** teenagers like you!
+
 <details>
 <summary><b>Are you 17?</b></summary>
 
-<p>You can only register now if you'll be 18 on or before the next general election day.</p>
+<p>You can only register now if you'll be 18 by the next general election day.</p>
 
 <p>You may need:</p>
 
@@ -100,45 +102,30 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 
 **NO ONLINE APPLICATION**
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that Arkansas should have one!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have one!
 
 <details>
 <summary><b>Are you 17?</b></summary>
 
-<p>You can only register now if you'll be 18 on or before the next general election day.</p>
+<p>You can only register now if you'll be 18 by the next general election day.</p>
 
-<p>Unfortunately, Arkansas has no online application.</p>
-<p>You can print out the form using the link below, or get a form from the following places near you:</p>
-
-<p>1. County clerk's office in your home county</p>
-<p>2. State Revenue Office, Driver Services</p>
-<p>3. Public library or Arkansas State Library</p>
-<p>4. Public assistance agency</p>
-<p>5. Disability agency</p>
-<p>6. Military recruitment office</p>
-<p>7. Arkansas National Guard</p>
-<p>8. Voter registration drive</p>
+<p>Unfortunately, your state has no online application. Use the link above to tell your state how you feel about this!</p>
+<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO button.</p>
 <p></p>
 </details>
 
 <details>
 <summary><b>Are you 18+?</b></summary>
 
-<p>Unfortunately, Arkansas has no online application. </p>
-<p>You can print out the form using the link below, or get a form from the following places near you:</p>
-
-<p>1. County clerk's office in your home county</p>
-<p>2. State Revenue Office, Driver Services</p>
-<p>3. Public library or Arkansas State Library</p>
-<p>4. Public assistance agency</p>
-<p>5. Disability agency</p>
-<p>6. Military recruitment office</p>
-<p>7. Arkansas National Guard</p>
-<p>8. Voter registration drive</p>
+<p>Unfortunately, your state has no online application. Use the link above to tell your state how you feel about this!</p>
+<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO button.</p>
 <p></p>
 </details>
 
-| [PRINT FORM HERE](http://www.sos.arkansas.gov/elections/Documents/ArkansasVoterRegistrationApplication.pdf) |
+
+| [MORE INFO](http://www.sos.arkansas.gov/elections/Documents/ArkansasVoterRegistrationApplication.pdf) |
+
+| [PRINT FORM](http://www.sos.arkansas.gov/elections/Documents/ArkansasVoterRegistrationApplication.pdf) |
 
 
 # California
@@ -223,8 +210,91 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 | [REGISTER HERE](https://voterregistration.ct.gov/OLVR/welcome.do) |
 
 
-# Delaware 
-# Florida 
+# Delaware
+
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16-17 year old** teenagers like you!
+
+<details>
+<summary><b>Are you 17?</b></summary>
+
+<p>You can only register now if you'll be 18 by the next general election day.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+| [REGISTER HERE](https://ivote.de.gov/voterlogin.aspx) |
+
+
+# District of Columbia
+
+<details>
+<summary><b>Are you 16 or 17?</b></summary>
+
+<p>You can pre-register! When you turn 18, you will be automatically registered to vote.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+| [REGISTER HERE](https://www.vote4dc.com/ApplyInstructions/Register) |
+
+
+# Florida
+
+**NO ONLINE APPLICATION**
+
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have one!
+
+<details>
+<summary><b>Are you 16 or 17?</b></summary>
+
+<p>You can pre-register! When you turn 18, you will be automatically registered to vote.</p>
+
+<p>Unfortunately, your state has no online application. Use the link above to tell your state how you feel about this!</p>
+<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO button.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>Unfortunately, your state has no online application. Use the link above to tell your state how you feel about this!</p>
+<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO button.</p>
+<p></p>
+</details>
+
+| [MORE INFO](http://dos.myflorida.com/media/693757/dsde39.pdf) |
+
+| [PRINT FORM](http://dos.myflorida.com/media/693757/dsde39.pdf) |
+
+
 # Georgia 
 # Hawaii 
 # Idaho 
@@ -266,7 +336,6 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 # West Virginia 
 # Wisconsin 
 # Wyoming 
-# Washington D.C.
 
 # FAQ 
 **When can I register to vote?**
