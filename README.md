@@ -95,7 +95,9 @@
 # Arkansas 
 
 **NO ONLINE APPLICATION**
+
 Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that Arkansas should have one!
+
 <details>
 <summary><b>Are you 17?</b></summary>
 
@@ -137,11 +139,57 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 
 # California
 
+<details>
+<summary><b>Are you 16 or 17?</b></summary>
+
+<p>You can pre-register! When you turn 18, you will be automatically registered to vote.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
 | [REGISTER HERE](http://registertovote.ca.gov/) |
+
 
 # Colorado 
 
+<details>
+<summary><b>Are you 16 or 17?</b></summary>
+
+<p>You can pre-register! When you turn 18, you will be automatically registered to vote.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
 | [REGISTER HERE](https://www.sos.state.co.us/voter-classic/pages/pub/olvr/verifyNewVoter.xhtml) |
+
 
 # Connecticut 
 # Delaware 
