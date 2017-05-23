@@ -1031,12 +1031,109 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 
 # New York
 
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+
+<details>
+<summary><b>Are you 17?</b></summary>
+
+<p>You can only register now if you'll be 18 by the end of the calendar year.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+| [REGISTER HERE](https://voterreg.dmv.ny.gov/MotorVoter/) |
+
+
+# North Carolina
+
+**NO ONLINE APPLICATION**
+
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have one!
+
+<details>
+<summary><b>Are you 16 or 17?</b></summary>
+
+<p>You can pre-register! When you turn 18, you will be automatically registered to vote.</p>
+
+<p>Unfortunately, your state has no online application. Use the link above to tell your state representative how you feel about this!</p>
+<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO link.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>Unfortunately, your state has no online application. Use the link above to tell your state representative how you feel about this!</p>
+<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO link.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+| [MORE INFO](https://www.ncsbe.gov/Voter-Registration/Registering-to-Vote) |
+
+| [PRINT FORM](https://www.ncsbe.gov/Portals/0/FilesP/NCVRRegFormv102013eng.pdf) |
+
+
+# North Dakota
+
+<details>
+<summary><b>Are you 17?</b></summary>
+
+<p>There is no voter registration in your state! To vote, be 18 by the election day and show up at the polls with proof of birth date and residency.</p>
+
+<p>This can include:</p>
+
+<p>1. Your state driver's license or state identification card number.</p>
+<p>2. An ID issued by a tribal government.</p>
+<p>3. A form of identification issued by the Secretary of State.</p> 
+<p>4. A combination of the options above.</p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>There is no voter registration in your state! To vote, be 18 by the election day and show up at the polls with proof of birth date and residency.</p>
+
+<p>This can include:</p>
+
+<p>1. Your state driver's license or state identification card number.</p>
+<p>2. An ID issued by a tribal government.</p>
+<p>3. A form of identification issued by the Secretary of State.</p> 
+<p>4. A combination of the options above.</p>
+<p></p>
+</details>
+
+| [REGISTER HERE](http://www.dmv.org/nd-north-dakota/voter-registration.php) |
+
+
+# Ohio
 
 
 
-# North Carolina 
-# North Dakota 
-# Ohio 
+
 # Oklahoma 
 # Oregon 
 # Pennsylvania 
@@ -1060,7 +1157,7 @@ Each state has different laws, but in **some** states you can [pre-register](htt
 
 **What's the difference between voter pre-registration and voter registration?**
 
-The only difference between voter pre-registration and voter registration is that you can't vote immediately after pre-registering. The state will automatically register you to vote when you turn 18, so you're just as "registered" as normally registered voters! 
+The only difference is that you can't vote immediately after pre-registering. The state will automatically register you to vote when you turn 18, so you're just as "registered" as normally registered voters! 
 
 # About the Site
 This site was created by Teela Huff. Email trfylh@gmail.com with any questions, comments, or concerns. Website information was taken from [https://www.usa.gov/voter-registration-age-requirements](https://www.usa.gov/voter-registration-age-requirements) and state voting sites. Thank you for using this website and helping out the teen vote in America!
