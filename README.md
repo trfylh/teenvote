@@ -16,34 +16,124 @@
 <details>
 <summary><b>Are you 17?</b></summary>
 
-<p>You can register now, but you must be 18 on or before the next election day.</p>
+<p>You can only register now if you'll be 18 on or before the next general election day.</p>
 
-<p>You must be 18 on or before the next election to actually vote!</p>
-
-<p>You'll probably need:</p>
+<p>You may need:</p>
 
 <p>1. Your state driver license or state identification card number.</p>
 <p>2. The last four digits of your social security number.</p>
-<p>3. Your date of birth.</p>
+<p></p>
 </details>
 
 <details>
 <summary><b>Are you 18+?</b></summary>
 
-<p>You'll probably need:</p>
+<p>You may need:</p>
 
 <p>1. Your state driver license or state identification card number.</p>
 <p>2. The last four digits of your social security number.</p>
-<p>3. Your date of birth.</p>
+<p></p>
 </details>
 
 | [REGISTER HERE](https://www.alabamavotes.gov/olvr/default.aspx) |
 
+
 # Alaska
+
+<details>
+<summary><b>Are you 17?</b></summary>
+
+<p>You can only register now if you're 90 days away from turning 18.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+| [REGISTER HERE](https://voterregistration.alaska.gov/) |
+
 
 # Arizona
 
+<details>
+<summary><b>Are you 17?</b></summary>
+
+<p>You can only register now if you'll be 18 on or before the next general election day.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+| [REGISTER HERE](https://servicearizona.com/webapp/evoter/selectLanguage) |
+
+
 # Arkansas 
+
+**NO ONLINE APPLICATION**
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that Arkansas should have one!
+<details>
+<summary><b>Are you 17?</b></summary>
+
+<p>You can only register now if you'll be 18 on or before the next general election day.</p>
+
+<p>Unfortunately, Arkansas has no online application.</p>
+<p>You can print out the form using the link below, or get a form from the following places near you:</p>
+
+<p>1. County clerk's office in your home county</p>
+<p>2. State Revenue Office, Driver Services</p>
+<p>3. Public library or Arkansas State Library</p>
+<p>4. Public assistance agency</p>
+<p>5. Disability agency</p>
+<p>6. Military recruitment office</p>
+<p>7. Arkansas National Guard</p>
+<p>8. Voter registration drive</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>Unfortunately, Arkansas has no online application. </p>
+<p>You can print out the form using the link below, or get a form from the following places near you:</p>
+
+<p>1. County clerk's office in your home county</p>
+<p>2. State Revenue Office, Driver Services</p>
+<p>3. Public library or Arkansas State Library</p>
+<p>4. Public assistance agency</p>
+<p>5. Disability agency</p>
+<p>6. Military recruitment office</p>
+<p>7. Arkansas National Guard</p>
+<p>8. Voter registration drive</p>
+<p></p>
+</details>
+
+| [PRINT FORM HERE](http://www.sos.arkansas.gov/elections/Documents/ArkansasVoterRegistrationApplication.pdf) |
+
 
 # California
 
