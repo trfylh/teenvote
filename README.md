@@ -110,7 +110,7 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p>You can only register now if you'll be 18 by the next general election day.</p>
 
 <p>Unfortunately, your state has no online application. Use the link above to tell your state representative how you feel about this!</p>
-<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO button.</p>
+<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO link.</p>
 
 <p>You may need:</p>
 
@@ -123,7 +123,7 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <summary><b>Are you 18+?</b></summary>
 
 <p>Unfortunately, your state has no online application. Use the link above to tell your state representative how you feel about this!</p>
-<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO button.</p>
+<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO link.</p>
 
 <p>You may need:</p>
 
@@ -288,7 +288,7 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p>You can pre-register! When you turn 18, you will be automatically registered to vote.</p>
 
 <p>Unfortunately, your state has no online application. Use the link above to tell your state representative how you feel about this!</p>
-<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO button.</p>
+<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO link.</p>
 
 <p>You may need:</p>
 
@@ -301,7 +301,7 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <summary><b>Are you 18+?</b></summary>
 
 <p>Unfortunately, your state has no online application. Use the link above to tell your state representative how you feel about this!</p>
-<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO button.</p>
+<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO link.</p>
 
 <p>You may need:</p>
 
@@ -383,7 +383,7 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p>You can only register now if you'll be 18 by the next general election day.</p>
 
 <p>Unfortunately, your state has no online application. Use the link above to tell your state representative how you feel about this!</p>
-<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO button.</p>
+<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO link.</p>
 
 <p>You may need:</p>
 
@@ -396,7 +396,7 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <summary><b>Are you 18+?</b></summary>
 
 <p>Unfortunately, your state has no online application. Use the link above to tell your state representative how you feel about this!</p>
-<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO button.</p>
+<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO link.</p>
 
 <p>You may need:</p>
 
@@ -597,7 +597,7 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p>You can only register now if you'll be 18 by the next general election day.</p>
 
 <p>Unfortunately, your state has no online application. Use the link above to tell your state representative how you feel about this!</p>
-<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO button.</p>
+<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO link.</p>
 
 <p>You may need:</p>
 
@@ -610,7 +610,7 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <summary><b>Are you 18+?</b></summary>
 
 <p>Unfortunately, your state has no online application. Use the link above to tell your state representative how you feel about this!</p>
-<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO button.</p>
+<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO link.</p>
 
 <p>You may need:</p>
 
@@ -691,7 +691,7 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p>You can only register now if you'll be 18 by the next general election day.</p>
 
 <p>Unfortunately, your state has no online application. Use the link above to tell your state representative how you feel about this!</p>
-<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO button.</p>
+<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO link.</p>
 
 <p>You may need:</p>
 
@@ -704,7 +704,7 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <summary><b>Are you 18+?</b></summary>
 
 <p>Unfortunately, your state has no online application. Use the link above to tell your state representative how you feel about this!</p>
-<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO button.</p>
+<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO link.</p>
 
 <p>You may need:</p>
 
@@ -750,11 +750,89 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 
 # Mississippi
 
+**NO ONLINE APPLICATION**
+
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have one! Also tell them that your state should have [voter pre-registration](#faq) for **all 16-17 year old** teenagers like you!
+
+<details>
+<summary><b>Are you 17?</b></summary>
+
+<p>You can only register now if you'll be 18 by the next general election day.</p>
+
+<p>Unfortunately, your state has no online application. Use the link above to tell your state representative how you feel about this!</p>
+<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO link.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>Unfortunately, your state has no online application. Use the link above to tell your state representative how you feel about this!</p>
+<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO link.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
 
 
+| [MORE INFO](http://www.dmv.org/ms-mississippi/voter-registration.php) |
 
-# Missouri 
+| [PRINT FORM](http://www.sos.ms.gov/Elections-Voting/Documents/Voter_Registration.pdf) |
+
+
+# Missouri
+
+**NO ONLINE DESKTOP APPLICATION (ONLY MOBILE)**
+
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have a desktop online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16-17 year old** teenagers like you!
+
+<details>
+<summary><b>Are you 17?</b></summary>
+
+<p>You can only register now if you're at least 17 1/2 years old.</p>
+
+<p>Unfortunately, your state has no online desktop application. Use the link above to tell your state representative how you feel about this!</p>
+<p>You can apply online on a mobile device using the link below. Or, fill out a pdf form using the MORE INFO link.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>Unfortunately, your state has no online desktop application. Use the link above to tell your state representative how you feel about this!</p>
+<p>You can apply online on a mobile device using the link below. Or, fill out a pdf form using the MORE INFO link.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+
+| [MORE INFO](http://www.sos.mo.gov/elections/goVoteMissouri/print) |
+
+| [PRINT FORM](https://s1.sos.mo.gov/votemissouri/request) |
+
+
 # Montana 
+
+
+
+
 # Nebraska 
 # Nevada 
 # New Hampshire 
