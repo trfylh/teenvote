@@ -6,7 +6,7 @@
 
 # Table of Contents
 
-[REGISTER](#choose-your-state) | [ABOUT](#about) | [FAQ](#faq)
+[REGISTER](#choose-your-state) | [ABOUT](#about-the-site) | [FAQ](#faq)
 
 # Choose Your State
 [Alabama](#alabama) | [Alaska](#alaska) | [Arizona](#arizona) | [Arkansas](#arkansas) | [California](#california) | [Colorado](#colorado) | [Connecticut](#connecticut) | [Delaware](#delaware) | [Florida](#florida) | [Georgia](#georgia) | [Hawaii](#hawaii) | [Idaho](#idaho) | [Illinois](#illinois) | [Indiana](#indiana) | [Iowa](#iowa) | [Kansas](#kansas) | [Kentucky](#kentucky) | [Louisiana](#louisiana) | [Maine](#maine) | [Maryland](#maryland) | [Massachusetts](#massachusetts) | [Michigan](#michigan) | [Minnesota](#minnesota) | [Mississippi](#mississippi) | [Missouri](#missouri) | [Montana](#montana) | [Nebraska](#nebraska) | [Nevada](#nevada) | [New Hampshire](#new-hampshire) | [New Jersey](#new-jersey) | [New Mexico](#new-mexico) | [New York](#new-york) | [North Carolina](#north-carolina) | [North Dakota](#north-dakota) | [Ohio](#ohio) | [Oklahoma](#oklahoma) | [Oregon](#oregon) | [Pennsylvania](#pennsylvania) | [Rhode Island](#rhode-island) | [South Carolina](#south-carolina) | [South Dakota](#south-dakota) | [Tennessee](#tennessee) | [Texas](#texas) | [Utah](#utah) | [Vermont](#vermont) | [Virginia](#virginia) | [Washington](#washington) | [West Virginia](#west-virginia) | [Wisconsin](#wisconsin) | [Wyoming](#wyoming) | [Washington D.C.](#washington-dc)
@@ -39,6 +39,8 @@
 
 
 # Alaska
+
+Find your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) and call to tell them that Arkansas should have voter pre-registration for **all 16-17 year old** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -96,7 +98,7 @@
 
 **NO ONLINE APPLICATION**
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that Arkansas should have one!
+Find your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) and call to tell them that Arkansas should have one!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -190,8 +192,33 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 
 | [REGISTER HERE](https://www.sos.state.co.us/voter-classic/pages/pub/olvr/verifyNewVoter.xhtml) |
 
+# Connecticut
 
-# Connecticut 
+<details>
+<summary><b>Are you 17?</b></summary>
+
+<p>You can only register now if you'll be 18 before the next general election day.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+| [REGISTER HERE](https://voterregistration.ct.gov/OLVR/welcome.do) |
+
+
 # Delaware 
 # Florida 
 # Georgia 
