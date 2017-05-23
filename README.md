@@ -960,17 +960,80 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-
 | [MORE INFO](http://www.dmv.org/nh-new-hampshire/voter-registration.php) |
 
 
 # New Jersey
 
+**NO ONLINE APPLICATION**
 
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have one! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+
+<details>
+<summary><b>Are you 17?</b></summary>
+
+<p>You can pre-register! When you turn 18, you will be automatically registered to vote.</p>
+
+<p>Unfortunately, your state has no online application. Use the link above to tell your state representative how you feel about this!</p>
+<p>You can find out where to get a form using MORE INFO link.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>Unfortunately, your state has no online application. Use the link above to tell your state representative how you feel about this!</p>
+<p>You can find out where to get a form using the MORE INFO link.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+| [MORE INFO](http://www.njelections.org/voting-information.html) |
 
 
 # New Mexico
-# New York 
+
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+
+<details>
+<summary><b>Are you 17?</b></summary>
+
+<p>You can only register now if you'll be 18 before the next general election day.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+| [REGISTER HERE](https://portal.sos.state.nm.us/OVR/WebPages/InstructionsStep1.aspx) |
+
+
+# New York
+
+
+
+
 # North Carolina 
 # North Dakota 
 # Ohio 
@@ -1000,4 +1063,4 @@ Each state has different laws, but in **some** states you can [pre-register](htt
 The only difference between voter pre-registration and voter registration is that you can't vote immediately after pre-registering. The state will automatically register you to vote when you turn 18, so you're just as "registered" as normally registered voters! 
 
 # About the Site
-This site was created by Teela Huff for her senior Political Activism project in the 2017-2018 school year. Email trfylh@gmail.com with any questions, comments, or concerns. Website information was taken from [https://www.usa.gov/voter-registration-age-requirements](https://www.usa.gov/voter-registration-age-requirements) and state voting sites. Thank you for using this website and helping out the teen vote in America!
+This site was created by Teela Huff. Email trfylh@gmail.com with any questions, comments, or concerns. Website information was taken from [https://www.usa.gov/voter-registration-age-requirements](https://www.usa.gov/voter-registration-age-requirements) and state voting sites. Thank you for using this website and helping out the teen vote in America!
