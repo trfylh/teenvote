@@ -13,6 +13,8 @@
 
 # Alabama
 
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16-17 year old** teenagers like you!
+
 <details>
 <summary><b>Are you 17?</b></summary>
 
@@ -40,7 +42,7 @@
 
 # Alaska
 
-Find your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) and call to tell them that Arkansas should have voter pre-registration for **all 16-17 year old** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16-17 year old** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -98,7 +100,7 @@ Find your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 
 **NO ONLINE APPLICATION**
 
-Find your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) and call to tell them that Arkansas should have one!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that Arkansas should have one!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -193,6 +195,8 @@ Find your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 | [REGISTER HERE](https://www.sos.state.co.us/voter-classic/pages/pub/olvr/verifyNewVoter.xhtml) |
 
 # Connecticut
+
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16-17 year old** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
