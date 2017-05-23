@@ -437,20 +437,322 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://registertovote.sos.ga.gov/GAOLVR/welcome.do#no-back-button) |
+| [REGISTER HERE](https://ova.elections.il.gov/Step0.aspx) |
 
 
-# Indiana 
-# Iowa 
-# Kansas 
-# Kentucky 
-# Louisiana 
+# Indiana
+
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16-17 year old** teenagers like you!
+
+<details>
+<summary><b>Are you 17?</b></summary>
+
+<p>You can only register now if you'll be 18 by the next general or municipal election day.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+| [REGISTER HERE](https://indianavoters.in.gov/PublicSite/OVR/Introduction.aspx?Link=Polling) |
+
+
+# Iowa
+
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16-17 year old** teenagers like you!
+
+<details>
+<summary><b>Are you 17?</b></summary>
+
+<p>You can only register now if you're at least 17 1/2 years old.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+| [REGISTER HERE](https://mymvd.iowadot.gov/VoterRegistration) |
+
+
+# Kansas
+
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16-17 year old** teenagers like you!
+
+<details>
+<summary><b>Are you 17?</b></summary>
+
+<p>You can only register now if you'll be 18 before the next general election day.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+| [REGISTER HERE](https://www.kdor.ks.gov/Apps/VoterReg/Default.aspx) |
+
+
+# Kentucky
+
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16-17 year old** teenagers like you!
+
+<details>
+<summary><b>Are you 17?</b></summary>
+
+<p>You can only register now if you'll be 18 before the next general election day.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+| [REGISTER HERE](https://vrsws.sos.ky.gov/ovrweb/) |
+
+
+# Louisiana
+
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16-17 year old** teenagers like you!
+
+<details>
+<summary><b>Are you 17?</b></summary>
+
+<p>You can pre-register! When you turn 18, you will be automatically registered to vote.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+| [REGISTER HERE](http://www.sos.la.gov/ElectionsAndVoting/Pages/OnlineVoterRegistration.aspx) |
+
+
 # Maine 
-# Maryland 
-# Massachusetts 
-# Michigan 
-# Minnesota 
-# Mississippi 
+
+**NO ONLINE APPLICATION**
+
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have one! Also tell them that your state should have [voter pre-registration](#faq) for **all 16-17 year old** teenagers like you!
+
+<details>
+<summary><b>Are you 17?</b></summary>
+
+<p>You can only register now if you'll be 18 by the next general election day.</p>
+
+<p>Unfortunately, your state has no online application. Use the link above to tell your state representative how you feel about this!</p>
+<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO button.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>Unfortunately, your state has no online application. Use the link above to tell your state representative how you feel about this!</p>
+<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO button.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+
+| [MORE INFO](http://www.dmv.org/me-maine/voter-registration.php) |
+
+| [PRINT FORM](http://www.maine.gov/sos/cec/elec/data/voterregcard2016.pdf) |
+
+
+# Maryland
+
+<details>
+<summary><b>Are you 16 or 17?</b></summary>
+
+<p>You can pre-register! When you turn 18, you will be automatically registered to vote.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+| [REGISTER HERE](https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1) |
+
+
+# Massachusetts
+
+<details>
+<summary><b>Are you 16 or 17?</b></summary>
+
+<p>You can pre-register! When you turn 18, you will be automatically registered to vote.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+| [REGISTER HERE](https://www.sec.state.ma.us/ovr/) |
+
+
+# Michigan
+
+**NO ONLINE APPLICATION**
+
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have one! Also tell them that your state should have [voter pre-registration](#faq) for **all 16-17 year old** teenagers like you!
+
+<details>
+<summary><b>Are you 17?</b></summary>
+
+<p>You can only register now if you'll be 18 by the next general election day.</p>
+
+<p>Unfortunately, your state has no online application. Use the link above to tell your state representative how you feel about this!</p>
+<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO button.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>Unfortunately, your state has no online application. Use the link above to tell your state representative how you feel about this!</p>
+<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO button.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+
+| [MORE INFO](http://www.michigan.gov/sos/0,4670,7-127-1633_8716_8726_47669-175879--,00.html) |
+
+| [PRINT FORM](http://www.michigan.gov/documents/MIVoterRegistration_97046_7.pdf) |
+
+
+# Minnesota
+
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16-17 year old** teenagers like you!
+
+<details>
+<summary><b>Are you 17?</b></summary>
+
+<p>You can only register now if you'll be 18 before the next general election day.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+| [REGISTER HERE](https://mnvotes.sos.state.mn.us/VoterRegistration/VoterRegistrationMain.aspx) |
+
+
+# Mississippi
+
+
+
+
 # Missouri 
 # Montana 
 # Nebraska 
