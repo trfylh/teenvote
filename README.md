@@ -1131,16 +1131,241 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 
 # Ohio
 
+**NO ONLINE APPLICATION**
+
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have one! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+
+<details>
+<summary><b>Are you 17?</b></summary>
+
+<p>You can only register now if you'll be 18 by the next general election day.</p>
+
+<p>Unfortunately, your state has no online application. Use the link above to tell your state representative how you feel about this!</p>
+<p>You can find out where to get a form using MORE INFO link.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>Unfortunately, your state has no online application. Use the link above to tell your state representative how you feel about this!</p>
+<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO link.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+| [MORE INFO](http://www.dmv.org/oh-ohio/voter-registration.php) |
+
+| [PRINT FORM](http://www.sos.state.oh.us/sos/upload/elections/forms/4010_Bilingual.pdf) |
+
+
+# Oklahoma
+
+**NO ONLINE APPLICATION**
+
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have one! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+
+<details>
+<summary><b>Are you 17?</b></summary>
+
+<p>You can only register now if it's 60 days before the next general election and you will be 18 by election day.</p>
+
+<p>Unfortunately, your state has no online application. Use the link above to tell your state representative how you feel about this!</p>
+<p>You can find out where to get a form using MORE INFO link.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>Unfortunately, your state has no online application. Use the link above to tell your state representative how you feel about this!</p>
+<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO link.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+| [MORE INFO](https://www.ok.gov/elections/Voter_Info/Register_to_Vote/) |
+
+| [PRINT FORM](https://www.ok.gov/elections/documents/Oklahoma%20Voter%20Registration%20Application%20form%20v4-20%20SEB%20web.pdf) |
+
+
+# Oregon
+
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+
+<details>
+<summary><b>Are you 17?</b></summary>
+
+<p>You can pre-register! When you turn 18, you will be automatically registered to vote.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+| [REGISTER HERE](https://secure.sos.state.or.us/orestar/vr/register.do?lang=eng&source=SOS) |
+
+
+# Pennsylvania
+
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+
+<details>
+<summary><b>Are you 17?</b></summary>
+
+<p>You can only register now if you'll be 18 by the next general, primary, special, or municipal election day.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+| [REGISTER HERE](https://www.pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx) |
+
+
+# Rhode Island
+
+<details>
+<summary><b>Are you 16 or 17?</b></summary>
+
+<p>You can pre-register! When you turn 18, you will be automatically registered to vote.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+| [REGISTER HERE](https://vote.sos.ri.gov/) |
+
+
+# South Carolina
+
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+
+<details>
+<summary><b>Are you 17?</b></summary>
+
+<p>You can only register now if you'll be 18 by the next general election day.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+| [REGISTER HERE](https://info.scvotes.sc.gov/eng/ovr/start.aspx) |
+
+
+# South Dakota
+
+**NO ONLINE APPLICATION**
+
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have one! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+
+<details>
+<summary><b>Are you 17?</b></summary>
+
+<p>You can only register now if you'll be 18 by the next general election day.</p>
+
+<p>Unfortunately, your state has no online application. Use the link above to tell your state representative how you feel about this!</p>
+<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO link.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+<details>
+<summary><b>Are you 18+?</b></summary>
+
+<p>Unfortunately, your state has no online application. Use the link above to tell your state representative how you feel about this!</p>
+<p>You can print out the form using the link below. Or, find out where to get a form or turn one in using the MORE INFO link.</p>
+
+<p>You may need:</p>
+
+<p>1. Your state driver license or state identification card number.</p>
+<p>2. The last four digits of your social security number.</p>
+<p></p>
+</details>
+
+
+| [MORE INFO](https://sdsos.gov/elections-voting/voting/register-to-vote/) |
+
+| [PRINT FORM](https://sdsos.gov/elections-voting/assets/VoterRegistrationFormFillable.pdf) |
+
+
+# Tennessee
 
 
 
-# Oklahoma 
-# Oregon 
-# Pennsylvania 
-# Rhode Island 
-# South Carolina 
-# South Dakota 
-# Tennessee 
+
 # Texas 
 # Utah 
 # Vermont 
