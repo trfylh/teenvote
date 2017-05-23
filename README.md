@@ -1655,7 +1655,7 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 
 
 # FAQ 
-**At what age can I register to vote?**
+**When can I register to vote?**
 
 Each state has different laws, but in **some** states you can [pre-register](http://www.fairvote.org/voter_pre_registration#facts_about_voter_pre_registration) as young as 16 years old!
 
