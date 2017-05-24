@@ -1,4 +1,4 @@
- <link rel="shortcut icon" type="image/png" href="/teenvoteicon.png">
+<head><link rel="shortcut icon" type="image/png" href="/favicon.png"></head>
 
 | <center>Teenvote has helped...</center> |
 
