@@ -1127,7 +1127,7 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](http://www.dmv.org/nd-north-dakota/voter-registration.php){:target="_blank"} |
+| [MORE INFO](http://www.dmv.org/nd-north-dakota/voter-registration.php){:target="_blank"} |
 
 
 # Ohio
