@@ -16,7 +16,7 @@
 
 # Alabama
 
-TESTCall your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
