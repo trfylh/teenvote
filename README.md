@@ -14,7 +14,7 @@
 
 # Alabama
 
-TEST2 Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -43,7 +43,7 @@ TEST2 Call your representative [HERE](http://act.commoncause.org/site/PageServer
 
 # Alaska
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -67,12 +67,12 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://voterregistration.alaska.gov/) |
+| [REGISTER HERE](https://voterregistration.alaska.gov/){:target="_blank"} |
 
 
 # Arizona
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -96,14 +96,14 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://servicearizona.com/webapp/evoter/selectLanguage) |
+| [REGISTER HERE](https://servicearizona.com/webapp/evoter/selectLanguage){:target="_blank"} |
 
 
 # Arkansas 
 
 **NO ONLINE APPLICATION**
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have an online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have an online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -134,9 +134,9 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 </details>
 
 
-| [MORE INFO](http://www.sos.arkansas.gov/elections/Pages/voterRegistration.aspx) |
+| [MORE INFO](http://www.sos.arkansas.gov/elections/Pages/voterRegistration.aspx){:target="_blank"} |
 
-| [PRINT FORM](http://www.sos.arkansas.gov/elections/Documents/ArkansasVoterRegistrationApplication.pdf) |
+| [PRINT FORM](http://www.sos.arkansas.gov/elections/Documents/ArkansasVoterRegistrationApplication.pdf){:target="_blank"} |
 
 
 # California
@@ -163,7 +163,7 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](http://registertovote.ca.gov/) |
+| [REGISTER HERE](http://registertovote.ca.gov/){:target="_blank"} |
 
 
 # Colorado 
@@ -190,11 +190,11 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://www.sos.state.co.us/voter-classic/pages/pub/olvr/verifyNewVoter.xhtml) |
+| [REGISTER HERE](https://www.sos.state.co.us/voter-classic/pages/pub/olvr/verifyNewVoter.xhtml){:target="_blank"} |
 
 # Connecticut
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -218,12 +218,12 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://voterregistration.ct.gov/OLVR/welcome.do) |
+| [REGISTER HERE](https://voterregistration.ct.gov/OLVR/welcome.do){:target="_blank"} |
 
 
 # Delaware
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -247,7 +247,7 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://ivote.de.gov/voterlogin.aspx) |
+| [REGISTER HERE](https://ivote.de.gov/voterlogin.aspx){:target="_blank"} |
 
 
 # District of Columbia
@@ -274,14 +274,14 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://www.vote4dc.com/ApplyInstructions/Register) |
+| [REGISTER HERE](https://www.vote4dc.com/ApplyInstructions/Register){:target="_blank"} |
 
 
 # Florida
 
 **NO ONLINE APPLICATION**
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have an online application!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have an online application!
 
 <details>
 <summary><b>Are you 16 or 17?</b></summary>
@@ -311,14 +311,14 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [MORE INFO](http://www.dmv.org/fl-florida/voter-registration.php) |
+| [MORE INFO](http://www.dmv.org/fl-florida/voter-registration.php){:target="_blank"} |
 
-| [PRINT FORM](http://dos.myflorida.com/media/693757/dsde39.pdf) |
+| [PRINT FORM](http://dos.myflorida.com/media/693757/dsde39.pdf){:target="_blank"} |
 
 
 # Georgia
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -342,7 +342,7 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://registertovote.sos.ga.gov/GAOLVR/welcome.do#no-back-button) |
+| [REGISTER HERE](https://registertovote.sos.ga.gov/GAOLVR/welcome.do#no-back-button){:target="_blank"} |
 
 
 # Hawaii
@@ -369,14 +369,14 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://olvr.hawaii.gov/) |
+| [REGISTER HERE](https://olvr.hawaii.gov/){:target="_blank"} |
 
 
 # Idaho
 
 **NO ONLINE APPLICATION**
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have an online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have an online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -407,14 +407,14 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 </details>
 
 
-| [MORE INFO](http://www.dmv.org/id-idaho/voter-registration.php) |
+| [MORE INFO](http://www.dmv.org/id-idaho/voter-registration.php){:target="_blank"} |
 
-| [PRINT FORM](http://www.idahovotes.gov/VoterReg/voter_registration.pdf) |
+| [PRINT FORM](http://www.idahovotes.gov/VoterReg/voter_registration.pdf){:target="_blank"} |
 
 
 # Illinois
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -438,12 +438,12 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://ova.elections.il.gov/Step0.aspx) |
+| [REGISTER HERE](https://ova.elections.il.gov/Step0.aspx){:target="_blank"} |
 
 
 # Indiana
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -467,12 +467,12 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://indianavoters.in.gov/PublicSite/OVR/Introduction.aspx?Link=Polling) |
+| [REGISTER HERE](https://indianavoters.in.gov/PublicSite/OVR/Introduction.aspx?Link=Polling){:target="_blank"} |
 
 
 # Iowa
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -496,12 +496,12 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://mymvd.iowadot.gov/VoterRegistration) |
+| [REGISTER HERE](https://mymvd.iowadot.gov/VoterRegistration){:target="_blank"} |
 
 
 # Kansas
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -525,12 +525,12 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://www.kdor.ks.gov/Apps/VoterReg/Default.aspx) |
+| [REGISTER HERE](https://www.kdor.ks.gov/Apps/VoterReg/Default.aspx){:target="_blank"} |
 
 
 # Kentucky
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -554,12 +554,12 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://vrsws.sos.ky.gov/ovrweb/) |
+| [REGISTER HERE](https://vrsws.sos.ky.gov/ovrweb/){:target="_blank"} |
 
 
 # Louisiana
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -583,14 +583,14 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](http://www.sos.la.gov/ElectionsAndVoting/Pages/OnlineVoterRegistration.aspx) |
+| [REGISTER HERE](http://www.sos.la.gov/ElectionsAndVoting/Pages/OnlineVoterRegistration.aspx){:target="_blank"} |
 
 
 # Maine 
 
 **NO ONLINE APPLICATION**
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have an online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have an online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -621,9 +621,9 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 </details>
 
 
-| [MORE INFO](http://www.dmv.org/me-maine/voter-registration.php) |
+| [MORE INFO](http://www.dmv.org/me-maine/voter-registration.php){:target="_blank"} |
 
-| [PRINT FORM](http://www.maine.gov/sos/cec/elec/data/voterregcard2016.pdf) |
+| [PRINT FORM](http://www.maine.gov/sos/cec/elec/data/voterregcard2016.pdf){:target="_blank"} |
 
 
 # Maryland
@@ -650,7 +650,7 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1) |
+| [REGISTER HERE](https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1){:target="_blank"} |
 
 
 # Massachusetts
@@ -677,14 +677,14 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://www.sec.state.ma.us/ovr/) |
+| [REGISTER HERE](https://www.sec.state.ma.us/ovr/){:target="_blank"} |
 
 
 # Michigan
 
 **NO ONLINE APPLICATION**
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have an online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have an online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -715,14 +715,14 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 </details>
 
 
-| [MORE INFO](http://www.michigan.gov/sos/0,4670,7-127-1633_8716_8726_47669-175879--,00.html) |
+| [MORE INFO](http://www.michigan.gov/sos/0,4670,7-127-1633_8716_8726_47669-175879--,00.html){:target="_blank"} |
 
-| [PRINT FORM](http://www.michigan.gov/documents/MIVoterRegistration_97046_7.pdf) |
+| [PRINT FORM](http://www.michigan.gov/documents/MIVoterRegistration_97046_7.pdf){:target="_blank"} |
 
 
 # Minnesota
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -746,14 +746,14 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://mnvotes.sos.state.mn.us/VoterRegistration/VoterRegistrationMain.aspx) |
+| [REGISTER HERE](https://mnvotes.sos.state.mn.us/VoterRegistration/VoterRegistrationMain.aspx){:target="_blank"} |
 
 
 # Mississippi
 
 **NO ONLINE APPLICATION**
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have an online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have an online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -784,16 +784,16 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 </details>
 
 
-| [MORE INFO](http://www.dmv.org/ms-mississippi/voter-registration.php) |
+| [MORE INFO](http://www.dmv.org/ms-mississippi/voter-registration.php){:target="_blank"} |
 
-| [PRINT FORM](http://www.sos.ms.gov/Elections-Voting/Documents/Voter_Registration.pdf) |
+| [PRINT FORM](http://www.sos.ms.gov/Elections-Voting/Documents/Voter_Registration.pdf){:target="_blank"} |
 
 
 # Missouri
 
 **NO ONLINE DESKTOP APPLICATION (ONLY MOBILE)**
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have a desktop online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have a desktop online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -824,16 +824,16 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 </details>
 
 
-| [MORE INFO](http://www.sos.mo.gov/elections/goVoteMissouri/print) |
+| [MORE INFO](http://www.sos.mo.gov/elections/goVoteMissouri/print){:target="_blank"} |
 
-| [PRINT FORM](https://s1.sos.mo.gov/votemissouri/request) |
+| [PRINT FORM](https://s1.sos.mo.gov/votemissouri/request){:target="_blank"} |
 
 
 # Montana 
 
 **NO ONLINE APPLICATION**
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have an online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have an online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -864,14 +864,14 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 </details>
 
 
-| [MORE INFO](http://sos.mt.gov/elections/vote/index) |
+| [MORE INFO](http://sos.mt.gov/elections/vote/index){:target="_blank"} |
 
-| [PRINT FORM](http://sos.mt.gov/portals/142/Elections/Forms/Voter_Registration_Application.pdf?dt=1495506397755) |
+| [PRINT FORM](http://sos.mt.gov/portals/142/Elections/Forms/Voter_Registration_Application.pdf?dt=1495506397755){:target="_blank"} |
 
 
 # Nebraska
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -895,12 +895,12 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://www.nebraska.gov/apps-sos-voter-registration/) |
+| [REGISTER HERE](https://www.nebraska.gov/apps-sos-voter-registration/){:target="_blank"} |
 
 
 # Nevada
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -924,14 +924,14 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://nvsos.gov/sosvoterservices/Registration/step1.aspx) |
+| [REGISTER HERE](https://nvsos.gov/sosvoterservices/Registration/step1.aspx){:target="_blank"} |
 
 
 # New Hampshire
 
 **NO ONLINE APPLICATION**
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have an online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have an online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -961,14 +961,14 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [MORE INFO](http://www.dmv.org/nh-new-hampshire/voter-registration.php) |
+| [MORE INFO](http://www.dmv.org/nh-new-hampshire/voter-registration.php){:target="_blank"} |
 
 
 # New Jersey
 
 **NO ONLINE APPLICATION**
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have an online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have an online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -998,12 +998,12 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [MORE INFO](http://www.njelections.org/voting-information.html) |
+| [MORE INFO](http://www.njelections.org/voting-information.html){:target="_blank"} |
 
 
 # New Mexico
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -1027,12 +1027,12 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://portal.sos.state.nm.us/OVR/WebPages/InstructionsStep1.aspx) |
+| [REGISTER HERE](https://portal.sos.state.nm.us/OVR/WebPages/InstructionsStep1.aspx){:target="_blank"} |
 
 
 # New York
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -1056,14 +1056,14 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://voterreg.dmv.ny.gov/MotorVoter/) |
+| [REGISTER HERE](https://voterreg.dmv.ny.gov/MotorVoter/){:target="_blank"} |
 
 
 # North Carolina
 
 **NO ONLINE APPLICATION**
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have an online application!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have an online application!
 
 <details>
 <summary><b>Are you 16 or 17?</b></summary>
@@ -1093,9 +1093,9 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [MORE INFO](https://www.ncsbe.gov/Voter-Registration/Registering-to-Vote) |
+| [MORE INFO](https://www.ncsbe.gov/Voter-Registration/Registering-to-Vote){:target="_blank"} |
 
-| [PRINT FORM](https://www.ncsbe.gov/Portals/0/FilesP/NCVRRegFormv102013eng.pdf) |
+| [PRINT FORM](https://www.ncsbe.gov/Portals/0/FilesP/NCVRRegFormv102013eng.pdf){:target="_blank"} |
 
 
 # North Dakota
@@ -1127,14 +1127,14 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](http://www.dmv.org/nd-north-dakota/voter-registration.php) |
+| [REGISTER HERE](http://www.dmv.org/nd-north-dakota/voter-registration.php){:target="_blank"} |
 
 
 # Ohio
 
 **NO ONLINE APPLICATION**
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have an online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have an online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -1164,16 +1164,16 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [MORE INFO](http://www.dmv.org/oh-ohio/voter-registration.php) |
+| [MORE INFO](http://www.dmv.org/oh-ohio/voter-registration.php){:target="_blank"} |
 
-| [PRINT FORM](http://www.sos.state.oh.us/sos/upload/elections/forms/4010_Bilingual.pdf) |
+| [PRINT FORM](http://www.sos.state.oh.us/sos/upload/elections/forms/4010_Bilingual.pdf){:target="_blank"} |
 
 
 # Oklahoma
 
 **NO ONLINE APPLICATION**
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have an online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have an online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -1203,14 +1203,14 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [MORE INFO](https://www.ok.gov/elections/Voter_Info/Register_to_Vote/) |
+| [MORE INFO](https://www.ok.gov/elections/Voter_Info/Register_to_Vote/){:target="_blank"} |
 
-| [PRINT FORM](https://www.ok.gov/elections/documents/Oklahoma%20Voter%20Registration%20Application%20form%20v4-20%20SEB%20web.pdf) |
+| [PRINT FORM](https://www.ok.gov/elections/documents/Oklahoma%20Voter%20Registration%20Application%20form%20v4-20%20SEB%20web.pdf){:target="_blank"} |
 
 
 # Oregon
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -1234,12 +1234,12 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://secure.sos.state.or.us/orestar/vr/register.do?lang=eng&source=SOS) |
+| [REGISTER HERE](https://secure.sos.state.or.us/orestar/vr/register.do?lang=eng&source=SOS){:target="_blank"} |
 
 
 # Pennsylvania
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -1263,7 +1263,7 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://www.pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx) |
+| [REGISTER HERE](https://www.pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx){:target="_blank"} |
 
 
 # Rhode Island
@@ -1290,12 +1290,12 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://vote.sos.ri.gov/) |
+| [REGISTER HERE](https://vote.sos.ri.gov/){:target="_blank"} |
 
 
 # South Carolina
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -1319,14 +1319,14 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://info.scvotes.sc.gov/eng/ovr/start.aspx) |
+| [REGISTER HERE](https://info.scvotes.sc.gov/eng/ovr/start.aspx){:target="_blank"} |
 
 
 # South Dakota
 
 **NO ONLINE APPLICATION**
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have an online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have an online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -1357,16 +1357,16 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 </details>
 
 
-| [MORE INFO](https://sdsos.gov/elections-voting/voting/register-to-vote/) |
+| [MORE INFO](https://sdsos.gov/elections-voting/voting/register-to-vote/){:target="_blank"} |
 
-| [PRINT FORM](https://sdsos.gov/elections-voting/assets/VoterRegistrationFormFillable.pdf) |
+| [PRINT FORM](https://sdsos.gov/elections-voting/assets/VoterRegistrationFormFillable.pdf){:target="_blank"} |
 
 
 # Tennessee
 
 **NO ONLINE APPLICATION**
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have an online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have an online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -1397,16 +1397,16 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 </details>
 
 
-| [MORE INFO](http://sos.tn.gov/products/elections/register-vote) |
+| [MORE INFO](http://sos.tn.gov/products/elections/register-vote){:target="_blank"} |
 
-| [PRINT FORM](http://sos-tn-gov-files.s3.amazonaws.com/forms/ss-3010.pdf) |
+| [PRINT FORM](http://sos-tn-gov-files.s3.amazonaws.com/forms/ss-3010.pdf){:target="_blank"} |
 
 
 # Texas
 
 **NO ONLINE APPLICATION**
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have an online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have an online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -1437,9 +1437,9 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 </details>
 
 
-| [MORE INFO](http://www.votetexas.gov/register-to-vote/index.html) |
+| [MORE INFO](http://www.votetexas.gov/register-to-vote/index.html){:target="_blank"} |
 
-| [PRINT FORM](https://webservices.sos.state.tx.us/vrapp/index.asp) |
+| [PRINT FORM](https://webservices.sos.state.tx.us/vrapp/index.asp){:target="_blank"} |
 
 
 # Utah
@@ -1466,12 +1466,12 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://secure.utah.gov/voterreg/index.html) |
+| [REGISTER HERE](https://secure.utah.gov/voterreg/index.html){:target="_blank"} |
 
 
 # Vermont
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -1495,12 +1495,12 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://www.olvr.sec.state.vt.us/) |
+| [REGISTER HERE](https://www.olvr.sec.state.vt.us/){:target="_blank"} |
 
 
 # Virginia
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -1524,12 +1524,12 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](http://www.elections.virginia.gov/citizen-portal/index.html) |
+| [REGISTER HERE](http://www.elections.virginia.gov/citizen-portal/index.html){:target="_blank"} |
 
 
 # Washington
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -1553,12 +1553,12 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://weiapplets.sos.wa.gov/MyVoteOLVR/MyVoteOLVR) |
+| [REGISTER HERE](https://weiapplets.sos.wa.gov/MyVoteOLVR/MyVoteOLVR){:target="_blank"} |
 
 
 # West Virginia
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -1582,12 +1582,12 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://ovr.sos.wv.gov/Register/Landing#Qualifications) |
+| [REGISTER HERE](https://ovr.sos.wv.gov/Register/Landing#Qualifications){:target="_blank"} |
 
 
 # Wisconsin
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -1611,14 +1611,14 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 <p></p>
 </details>
 
-| [REGISTER HERE](https://myvote.wi.gov/en-US/RegisterToVote) |
+| [REGISTER HERE](https://myvote.wi.gov/en-US/RegisterToVote){:target="_blank"} |
 
 
 # Wyoming
 
 **NO ONLINE APPLICATION**
 
-Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) to tell them that your state should have an online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
+Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page){:target="_blank"} to tell them that your state should have an online application! Also tell them that your state should have [voter pre-registration](#faq) for **all 16+** teenagers like you!
 
 <details>
 <summary><b>Are you 17?</b></summary>
@@ -1649,15 +1649,15 @@ Call your representative [HERE](http://act.commoncause.org/site/PageServer?pagen
 </details>
 
 
-| [MORE INFO](http://soswy.state.wy.us/Elections/RegisteringToVote.aspx) |
+| [MORE INFO](http://soswy.state.wy.us/Elections/RegisteringToVote.aspx){:target="_blank"} |
 
-| [PRINT FORM](http://soswy.state.wy.us/Forms/Elections/General/VoterRegistrationForm.pdf) |
+| [PRINT FORM](http://soswy.state.wy.us/Forms/Elections/General/VoterRegistrationForm.pdf){:target="_blank"} |
 
 
 # FAQ 
 **When can I register to vote?**
 
-Each state has different laws, but in **some** states you can [pre-register](http://www.fairvote.org/voter_pre_registration#facts_about_voter_pre_registration) as young as 16 years old!
+Each state has different laws, but in **some** states you can [pre-register](http://www.fairvote.org/voter_pre_registration#facts_about_voter_pre_registration){:target="_blank"} as young as 16 years old!
 
 **What's the difference between voter pre-registration and voter registration?**
 
@@ -1665,4 +1665,4 @@ The only difference is that you can't vote immediately after pre-registering. Th
 
 
 # About the Site
-This site was created by Teela Huff. Email trfylh@gmail.com with any questions, comments, or concerns. Website information was taken from [https://www.usa.gov/voter-registration-age-requirements](https://www.usa.gov/voter-registration-age-requirements) and state voting sites. Thank you for using this website and helping out the teen vote in America!
+This site was created by Teela Huff. Email trfylh@gmail.com with any questions, comments, or concerns. Website information was taken from [https://www.usa.gov/voter-registration-age-requirements](https://www.usa.gov/voter-registration-age-requirements){:target="_blank"} and state voting sites. Thank you for using this website and helping out the teen vote in America!
