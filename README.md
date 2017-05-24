@@ -1661,8 +1661,12 @@ Each state has different laws, but in **some** states you can [pre-register](htt
 
 **What's the difference between voter pre-registration and voter registration?**
 
-The only difference is that you can't vote immediately after pre-registering. The state will automatically register you to vote when you turn 18, so you're just as "registered" as normally registered voters! 
+The only difference is that you can't vote immediately after pre-registering. The state will automatically register you to vote when you turn 18, so you're just as "registered" as normally registered voters!
+
+[BACK TO TOP](#table-of-contents)
 
 
 # About the Site
 This site was created by Teela Huff. Email trfylh@gmail.com with any questions, comments, or concerns. Website information was taken from [https://www.usa.gov/voter-registration-age-requirements](https://www.usa.gov/voter-registration-age-requirements){:target="_blank"} and state voting sites. Thank you for using this website and helping out the teen vote in America!
+
+[BACK TO TOP](#table-of-contents)
